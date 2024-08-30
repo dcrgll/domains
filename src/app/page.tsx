@@ -47,4 +47,6 @@ export default async function Home() {
   )
 }
 
-export const revalidate = 60 * 60 * 24 * 7
+export const revalidate = 86400
+
+export const dynamic = 'force-static'

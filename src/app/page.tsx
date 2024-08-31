@@ -32,7 +32,7 @@ export default async function Home() {
           </Card>
         </div>
 
-        <div className="mt-4 w-full px-2">
+        <div className="mt-4 w-full px-2 md:mt-0">
           <Card className="mx-auto w-full max-w-[450px]">
             <CardHeader>
               <CardTitle>Interested? Get in touch.</CardTitle>
